@@ -1,0 +1,23 @@
+1. Open cmd(Command Prompt)
+2. Type or paste:-----   ssh root@159.223.27.15
+Enter
+3. Paste Password:----   CSPM@12345Ok
+Enter
+4. Type or paste:-----   cd cspm-apis/
+Enter
+5. Type or paste:-----   cd cspm-apis/
+Enter
+6. Type or paste:----- python3 manage.py runserver 159.223.27.15:8000
+Enter
+
+
+
+
+
+
+Note:- If you pushed latest code on github, so type or paste below commands
+
+7. Type or paste:----- git pull
+Enter
+8. Repeat steps 6
+Enter
